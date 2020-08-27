@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="./styletransfermodal" alt="Demo" />
+    <img src="https://raw.githubusercontent.com/scottvcaputo/Neural-Style-Transfer/master/styletransfer.PNG" alt="Demo" />
 </p>
 
 
