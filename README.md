@@ -24,8 +24,9 @@
   Implemented neural style transfer in order to create images derived from a content image and a style reference image allowing the user to create their own.
 </p>
 
-<img src={"./styletransfermodal"}>
-</img>
+<p align="center">
+    <img src="./styletransfermodal" alt="Demo" />
+</p>
 
 
 ## Frameworks and Dependencies 
