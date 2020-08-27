@@ -7,6 +7,8 @@
   </p>
   <p align="center">
     + Implemented Tensorflow framework 
+  </p>
+  <p>
     + Keras backend API
   </p>
   <p align="center">
